@@ -1,0 +1,9 @@
+/* navigate/tea.wxss */
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  border-bottom: 1px #000 solid;
+}

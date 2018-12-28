@@ -1,0 +1,31 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.userinfo-avatar {
+  width: 64rpx;
+  height: 64rpx;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+  size: 10px;
+}
+
+.usermotto {
+  margin-right: 30px;
+}
+
+.navigator-hover {
+  color: blue;
+ }
+/** 自定义其他点击态样式类 **/
+.other-navigator-hover {
+  color: red;
+}
